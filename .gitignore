@@ -1,0 +1,8 @@
+# Python相关
+__pycache__/
+*.pyc
+*.pyo
+env/
+
+# VS Code设置
+.vscode/
